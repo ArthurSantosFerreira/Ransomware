@@ -1,5 +1,12 @@
 # Ransomware que criptografa um conteúdo txt utilizando a cifra de césar
 
+########################################################################
+# Arthur Santos Ferreira                            RA: 082180042      #
+# Clarissa Reis Fonseca                             RA: 082180003      #
+# Lucas Pontelli Martin                             RA: 081190042      #
+# Ronaldo Vicente Lopes de Souza                    RA: 082180041      #
+#######################################################################
+
 import os
 import random
 
